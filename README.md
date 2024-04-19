@@ -1,0 +1,2 @@
+# TOWARDS-EFFICIENT-CRYPTOGRAPHIC-DATA-VALIDATION-SERVICE-IN-EDGE-COMPUTING
+Edge computing brings data computation and storage closer to the mobile device to  save response time for decision making. After being processed at the edge, commonly  the data will be uploaded to the cloud for further enriched analysis. For privacy  concerns, local devices may encrypt the collected data before sending it to the cloud  server. 
